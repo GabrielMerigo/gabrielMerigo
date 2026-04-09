@@ -7,6 +7,6 @@ CTO @NSD Tecnologia
 
 I am a technology enthusiast passionate about building applications for both web and mobile platforms, working primarily with JavaScript using React, React Native, and Node.js.
 
-I have a strong interest in both financial education and technology, one of the main reasons I founded Nexus was to combine these two passions.
+I have a strong interest in both financial education and technology, one of the main reasons I founded NSD was to combine these two passions.
 
 I am deeply passionate about developing applications within the financial sector, including payment gateways, banking apps, home brokers, and beyond.
