@@ -1,6 +1,6 @@
 # Gabriel Merigo
 
-CTO @NSD Tecnologia
+CTO @Bestfy
 
 [![Instagram Badge](https://img.shields.io/badge/-gabriel.merigo-0057B7?style=flat-square&labelColor=0057B7&logo=instagram&logoColor=white&link=https://instagram.com/gabriel.merigo)](https://instagram.com/gabriel.merigo) 
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.merigo.dev@gmail.com-0057B7?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.merigo@nexus-sd.com)](mailto:gabriel.merigo@nexus-sd.com)
